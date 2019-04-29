@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:600de73bc8c4989987fbedb83919872b:f4ffa863793bfff755d9ba8abeea580b:aa78f6162e84829cf41e0f69237eb7e8$ -->
+<TextureAtlas imagePath="textureAtlas_4.png">
+    <SubTexture name="bullet/0003" x="368" y="660" width="75" height="75"/>
+    <SubTexture name="bullet/0004" x="368" y="737" width="75" height="75"/>
+    <SubTexture name="bullet/0005" x="918" y="148" width="75" height="75"/>
+    <SubTexture name="bullet/0006" x="920" y="2" width="75" height="75"/>
+    <SubTexture name="bullet/0007" x="811" y="876" width="75" height="75"/>
+    <SubTexture name="bullet/0008" x="368" y="814" width="75" height="75"/>
+    <SubTexture name="bullet/0009" x="368" y="891" width="75" height="75"/>
+    <SubTexture name="germFour_001" x="918" y="225" width="76" height="58" frameX="0" frameY="0" frameWidth="80" frameHeight="60"/>
+    <SubTexture name="germFour_002" x="920" y="79" width="76" height="58" frameX="0" frameY="0" frameWidth="80" frameHeight="60"/>
+    <SubTexture name="germFour_003" x="216" y="954" width="74" height="58" frameX="0" frameY="0" frameWidth="80" frameHeight="60"/>
+    <SubTexture name="germFour_004" x="811" y="953" width="76" height="58" frameX="0" frameY="0" frameWidth="80" frameHeight="60"/>
+    <SubTexture name="germFour_006" x="292" y="954" width="74" height="58" frameX="0" frameY="0" frameWidth="80" frameHeight="60"/>
+    <SubTexture name="germFour_007" x="109" y="962" width="74" height="58" frameX="0" frameY="0" frameWidth="80" frameHeight="60"/>
+    <SubTexture name="germOne_012" x="156" y="2" width="148" height="170" frameX="-13" frameY="-4" frameWidth="166" frameHeight="200"/>
+    <SubTexture name="germOne_013" x="2" y="342" width="146" height="168" frameX="-15" frameY="-5" frameWidth="166" frameHeight="200"/>
+    <SubTexture name="germOne_014" x="2" y="170" width="148" height="170" frameX="-13" frameY="-6" frameWidth="166" frameHeight="200"/>
+    <SubTexture name="germOne_021" x="2" y="2" width="152" height="166" frameX="-9" frameY="-11" frameWidth="166" frameHeight="200"/>
+    <SubTexture name="germOne_023" x="152" y="174" width="152" height="164" frameX="-9" frameY="-13" frameWidth="166" frameHeight="200"/>
+    <SubTexture name="germOne_025" x="306" y="158" width="152" height="152" frameX="-9" frameY="-18" frameWidth="166" frameHeight="200"/>
+    <SubTexture name="germOne_026" x="150" y="502" width="152" height="156" frameX="-9" frameY="-19" frameWidth="166" frameHeight="200"/>
+    <SubTexture name="germOne_027" x="304" y="502" width="152" height="156" frameX="-9" frameY="-19" frameWidth="166" frameHeight="200"/>
+    <SubTexture name="germOne_028" x="152" y="340" width="152" height="160" frameX="-9" frameY="-17" frameWidth="166" frameHeight="200"/>
+    <SubTexture name="germOne_029" x="306" y="2" width="152" height="154" frameX="-9" frameY="-16" frameWidth="166" frameHeight="200"/>
+    <SubTexture name="germThree_001" x="871" y="298" width="150" height="138" frameX="0" frameY="-5" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_002" x="762" y="736" width="150" height="138" frameX="0" frameY="-5" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_003" x="869" y="588" width="150" height="138" frameX="0" frameY="-5" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_004" x="445" y="764" width="150" height="138" frameX="0" frameY="-5" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_005" x="216" y="814" width="150" height="138" frameX="0" frameY="-5" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_006" x="764" y="446" width="150" height="140" frameX="0" frameY="-5" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_007" x="768" y="2" width="150" height="144" frameX="0" frameY="-4" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_008" x="306" y="312" width="150" height="146" frameX="0" frameY="-4" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_009" x="614" y="150" width="150" height="146" frameX="0" frameY="-4" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_010" x="458" y="616" width="150" height="146" frameX="0" frameY="-4" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_011" x="109" y="660" width="150" height="146" frameX="0" frameY="-4" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_012" x="460" y="2" width="152" height="146" frameX="0" frameY="-4" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_013" x="460" y="150" width="152" height="146" frameX="0" frameY="-4" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_014" x="458" y="468" width="152" height="146" frameX="0" frameY="-4" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_015" x="565" y="298" width="152" height="146" frameX="0" frameY="-4" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_016" x="614" y="2" width="152" height="146" frameX="0" frameY="-4" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_018" x="610" y="616" width="150" height="146" frameX="0" frameY="-4" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_019" x="719" y="298" width="150" height="146" frameX="0" frameY="-4" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_020" x="766" y="150" width="150" height="146" frameX="0" frameY="-4" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germThree_021" x="612" y="446" width="150" height="142" frameX="0" frameY="-5" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="germTwo_015" x="914" y="872" width="105" height="140" frameX="0" frameY="-5" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="germTwo_016" x="916" y="438" width="105" height="142" frameX="0" frameY="-5" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="germTwo_017" x="762" y="590" width="105" height="144" frameX="0" frameY="-5" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="germTwo_018" x="261" y="660" width="105" height="152" frameX="0" frameY="-4" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="germTwo_019" x="109" y="808" width="105" height="152" frameX="0" frameY="-5" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="germTwo_020" x="2" y="512" width="105" height="154" frameX="0" frameY="-4" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="germTwo_021" x="458" y="312" width="105" height="154" frameX="0" frameY="-4" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="germTwo_022" x="2" y="668" width="105" height="154" frameX="0" frameY="-4" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="germTwo_027" x="2" y="824" width="105" height="146" frameX="0" frameY="-4" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="germTwo_028" x="914" y="728" width="105" height="142" frameX="0" frameY="-4" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="germTwo_029" x="597" y="764" width="105" height="140" frameX="0" frameY="-4" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="germTwo_066" x="704" y="876" width="105" height="138" frameX="0" frameY="-4" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="hypermode-button0012" x="522" y="904" width="60" height="46" frameX="-5" frameY="-3" frameWidth="70" frameHeight="50"/>
+    <SubTexture name="hypermode-button0013" x="522" y="952" width="60" height="46" frameX="-5" frameY="-3" frameWidth="70" frameHeight="50"/>
+    <SubTexture name="hypermode-button0015" x="368" y="968" width="60" height="46" frameX="-5" frameY="-3" frameWidth="70" frameHeight="50"/>
+    <SubTexture name="hypermode-button0016" x="2" y="972" width="60" height="46" frameX="-5" frameY="-3" frameWidth="70" frameHeight="50"/>
+    <SubTexture name="redBullet_0001" x="445" y="904" width="75" height="75"/>
+    <SubTexture name="redBullet_0002" x="584" y="906" width="75" height="75"/>
+</TextureAtlas>

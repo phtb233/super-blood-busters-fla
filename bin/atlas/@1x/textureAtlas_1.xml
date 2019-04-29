@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:600de73bc8c4989987fbedb83919872b:f4ffa863793bfff755d9ba8abeea580b:aa78f6162e84829cf41e0f69237eb7e8$ -->
+<TextureAtlas imagePath="textureAtlas_1.png">
+    <SubTexture name="Minecraftia54" x="567" y="507" width="252" height="506" frameX="-2" frameY="-2" frameWidth="256" frameHeight="510"/>
+    <SubTexture name="ammo_001" x="969" y="49" width="8" height="40" frameX="-6" frameY="0" frameWidth="20" frameHeight="40"/>
+    <SubTexture name="ammo_002" x="969" y="91" width="8" height="40" frameX="-6" frameY="0" frameWidth="20" frameHeight="40"/>
+    <SubTexture name="arrow" x="979" y="77" width="23" height="21"/>
+    <SubTexture name="cross" x="484" y="635" width="72" height="80" frameX="-13" frameY="-11" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="far_detail" x="486" y="496" width="472" height="9" frameX="-4" frameY="-5" frameWidth="480" frameHeight="21"/>
+    <SubTexture name="far_ice_mtn" x="2" y="873" width="480" height="148"/>
+    <SubTexture name="far_tree_trunks" x="486" y="324" width="480" height="170"/>
+    <SubTexture name="germFour_013" x="484" y="948" width="76" height="58" frameX="0" frameY="0" frameWidth="80" frameHeight="60"/>
+    <SubTexture name="germOne_001" x="821" y="507" width="154" height="178" frameX="-7" frameY="-11" frameWidth="166" frameHeight="200"/>
+    <SubTexture name="germOne_003" x="821" y="687" width="152" height="178" frameX="-9" frameY="-10" frameWidth="166" frameHeight="200"/>
+    <SubTexture name="germThree_017" x="821" y="867" width="152" height="146" frameX="0" frameY="-4" frameWidth="152" frameHeight="150"/>
+    <SubTexture name="icon_cross" x="968" y="426" width="50" height="47"/>
+    <SubTexture name="instructions-screen-resized" x="486" y="2" width="481" height="320"/>
+    <SubTexture name="music_icon" x="968" y="324" width="50" height="50"/>
+    <SubTexture name="near_cacti" x="2" y="508" width="563" height="41" frameX="-37" frameY="-2" frameWidth="699" frameHeight="43"/>
+    <SubTexture name="one" x="979" y="49" width="22" height="26" frameX="-6" frameY="-4" frameWidth="34" frameHeight="34"/>
+    <SubTexture name="optionsButton" x="968" y="376" width="48" height="48" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="picker_icon" x="979" y="100" width="20" height="20"/>
+    <SubTexture name="pressStart80" x="2" y="2" width="482" height="504" frameX="-2" frameY="-2" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="redBullet_0008" x="484" y="717" width="75" height="75"/>
+    <SubTexture name="redBullet_0009" x="484" y="794" width="75" height="75"/>
+    <SubTexture name="redBullet_0010" x="484" y="871" width="75" height="75"/>
+    <SubTexture name="sfx_icon" x="969" y="2" width="50" height="45"/>
+    <SubTexture name="three" x="968" y="475" width="26" height="26" frameX="-2" frameY="-4" frameWidth="34" frameHeight="34"/>
+    <SubTexture name="tick" x="484" y="551" width="72" height="82" frameX="-16" frameY="-7" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="title-screen-resized" x="2" y="551" width="480" height="320"/>
+    <SubTexture name="two" x="969" y="133" width="26" height="26" frameX="-2" frameY="-4" frameWidth="34" frameHeight="34"/>
+    <SubTexture name="waves_far" x="484" y="1015" width="462" height="5" frameX="-8" frameY="-11" frameWidth="480" frameHeight="29"/>
+</TextureAtlas>

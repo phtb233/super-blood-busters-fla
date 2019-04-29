@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7588395c12d5423fe1d423e133fe142b:b33f808340e310bd34dbbbd13553fb04:aa78f6162e84829cf41e0f69237eb7e8$ -->
+<TextureAtlas imagePath="textureAtlas_2.png">
+    <SubTexture name="audioSettingsBg" x="2" y="2" width="960" height="640"/>
+    <SubTexture name="far_mtn" x="2" y="1286" width="960" height="284" frameX="0" frameY="0" frameWidth="960" frameHeight="288"/>
+    <SubTexture name="germOne_024" x="1734" y="1512" width="304" height="324" frameX="-18" frameY="-32" frameWidth="332" frameHeight="400"/>
+    <SubTexture name="germTwo_022" x="1794" y="622" width="208" height="306" frameX="-2" frameY="-10" frameWidth="214" frameHeight="320"/>
+    <SubTexture name="germTwo_023" x="1794" y="930" width="208" height="306" frameX="-2" frameY="-10" frameWidth="214" frameHeight="320"/>
+    <SubTexture name="germTwo_024" x="1794" y="2" width="208" height="308" frameX="-2" frameY="-10" frameWidth="214" frameHeight="320"/>
+    <SubTexture name="germTwo_025" x="1794" y="312" width="208" height="308" frameX="-2" frameY="-10" frameWidth="214" frameHeight="320"/>
+    <SubTexture name="germTwo_026" x="1794" y="2" width="208" height="308" frameX="-2" frameY="-10" frameWidth="214" frameHeight="320"/>
+    <SubTexture name="germTwo_080" x="1794" y="1238" width="208" height="272" frameX="-2" frameY="-10" frameWidth="214" frameHeight="320"/>
+    <SubTexture name="hypermode_0005" x="1850" y="2020" width="192" height="18" frameX="-4" frameY="-6" frameWidth="208" frameHeight="28"/>
+    <SubTexture name="instructions-plaque-resized" x="964" y="1010" width="828" height="500" frameX="0" frameY="0" frameWidth="840" frameHeight="512"/>
+    <SubTexture name="mid_ground" x="964" y="1838" width="960" height="180" frameX="0" frameY="0" frameWidth="960" frameHeight="184"/>
+    <SubTexture name="mid_tree_trunks" x="964" y="1512" width="768" height="324" frameX="-100" frameY="0" frameWidth="960" frameHeight="324"/>
+    <SubTexture name="near_ground" x="2" y="1976" width="960" height="44" frameX="0" frameY="-4" frameWidth="960" frameHeight="48"/>
+    <SubTexture name="near_ice_mtn" x="2" y="1572" width="960" height="216" frameX="0" frameY="0" frameWidth="960" frameHeight="220"/>
+    <SubTexture name="near_mtn" x="2" y="1790" width="960" height="184" frameX="0" frameY="-10" frameWidth="960" frameHeight="198"/>
+    <SubTexture name="questionPlaque" x="964" y="2" width="828" height="502" frameX="0" frameY="0" frameWidth="840" frameHeight="514"/>
+    <SubTexture name="settingsPlaque" x="964" y="506" width="828" height="502" frameX="0" frameY="0" frameWidth="840" frameHeight="514"/>
+    <SubTexture name="sun" x="1926" y="1838" width="120" height="120" frameX="-6" frameY="-4" frameWidth="132" frameHeight="130"/>
+    <SubTexture name="three" x="1926" y="1960" width="52" height="52" frameX="-4" frameY="-8" frameWidth="68" frameHeight="68"/>
+    <SubTexture name="title-screen-resized" x="2" y="644" width="960" height="640"/>
+    <SubTexture name="two" x="1980" y="1960" width="52" height="52" frameX="-4" frameY="-8" frameWidth="68" frameHeight="68"/>
+    <SubTexture name="waves_far" x="2" y="2022" width="924" height="8" frameX="-16" frameY="-24" frameWidth="960" frameHeight="58"/>
+    <SubTexture name="waves_mid" x="928" y="2022" width="920" height="16" frameX="-8" frameY="-26" frameWidth="960" frameHeight="64"/>
+</TextureAtlas>

@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+
+		<!-- Contains details for the level (enemies, their speeds, powerups etc -->
+		
+		<levels>
+			<!-- Level 1 -->
+			<level toKill="5" changeBG="false" bg="BACKGROUND_ONE" bgm="null">
+				<germOne	 prob="1" speed="5" freq="1"/>
+				<germTwo	 prob="0" speed="3" freq="9999"/>
+				<germThree	 prob="0" speed="2" freq="9999"/>
+				<germFour	 prob="0" speed="1" freq="9999"/>
+				<rbc 		 prob="0" freq="15"/>
+				<powerup	 prob="0" freq="15"/>
+			</level>
+			<!-- Level 2 -->
+			<level toKill="10" changeBG="false" bg="BACKGROUND_ONE" bgm="null">
+				<germOne prob="0.8" speed="5" freq="2"/>
+				<germTwo	 prob="0.8" speed="3" freq="2"/>
+				<germThree	 prob="0" speed="2" freq="15"/>
+				<germFour	 prob="0" speed="2" freq="15"/>
+				<rbc 		 prob="0" freq="0"/>
+				<powerup 	 prob="0.2" freq="6"/>
+			</level>
+			<!-- Level 3 -->
+			<level toKill="15" changeBG="false" bg="BACKGROUND_ONE" bgm="null">
+				<germOne 	 prob="0.7" speed="5" freq="2"/>
+				<germTwo 	 prob="0.7" speed="3" freq="2"/>
+				<germThree 	 prob="0.7" speed="2" freq="4"/>
+				<germFour 	 prob="0" speed="2" freq="15"/>
+				<rbc		 prob="0.6" freq="4"/>
+				<powerup	 prob="0.2" freq="6"/>
+			</level>
+			<!-- Level 4 -->
+			<level toKill="20" changeBG="false" bg="BACKGROUND_ONE" bgm="null">
+				<germOne 	 prob="0.6" speed="5" freq="2"/>
+				<germTwo 	 prob="0.6" speed="3" freq="2"/>
+				<germThree	 prob="0.6" speed="2" freq="3"/>
+				<germFour	 prob="0.6" speed="1" freq="4"/>
+				<rbc 		 prob="0" freq="0"/>
+				<powerup	 prob="0.3" freq="6"/>
+			</level>
+			<!-- Level 5 -->
+			<level toKill="25" changeBG="true" bg="BACKGROUND_TWO" bgm="null">
+				<germOne	 prob="0.6" speed="5" freq="2"/>
+				<germTwo	 prob="0.6" speed="3" freq="3"/>
+				<germThree	 prob="0.6" speed="2" freq="4"/>
+				<germFour	 prob="0.6" speed="1" freq="5"/>
+				<rbc		 prob="0.3" freq="4"/>
+				<powerup 	 prob="0.6" freq="6"/>
+			</level>
+			<!-- Level 6 -->
+			<level toKill="30" changeBG="false" bg="BACKGROUND_TWO" bgm="null">
+				<germOne 	 prob="0" speed="5" freq="2"/>
+				<germTwo 	 prob="0.7" speed="3" freq="2"/>
+				<germThree	 prob="0.7" speed="2" freq="2"/>
+				<germFour	 prob="0.7" speed="1" freq="2"/>
+				<rbc		 prob="0.3" freq="4"/>
+				<powerup 	 prob="0.5" freq="6"/>
+			</level>
+			<!-- Level 7 -->
+			<level toKill="35" changeBG="false" bg="BACKGROUND_TWO" bgm="null">
+				<germOne 	 prob="0.6" speed="5" freq="2"/>
+				<germTwo 	 prob="0.6" speed="3" freq="2"/>
+				<germThree	 prob="0.6" speed="2" freq="3"/>
+				<germFour	 prob="0.6" speed="1" freq="3"/>
+				<rbc 		 prob="0.4" freq="4"/>
+				<powerup	 prob="0.5" freq="6"/>
+			</level>
+			<!-- Level 8 -->
+			<level toKill="40" changeBG="false" bg="BACKGROUND_TWO" bgm="null">
+				<germOne 	 prob="0.7" speed="5" freq="3"/>
+				<germTwo 	 prob="0.6" speed="3" freq="2"/>
+				<germThree	 prob="0.5" speed="2" freq="1"/>
+				<germFour	 prob="0.6" speed="1" freq="3"/>
+				<rbc 		 prob="0.4" freq="3"/>
+				<powerup	 prob="0.6" freq="4"/>
+			</level>
+			<!-- Level 9 -->
+			<level toKill="45" changeBG="false" bg="BACKGROUND_TWO" bgm="null">
+				<germOne 	 prob="0.7" speed="5" freq="2"/>
+				<germTwo 	 prob="0.7" speed="3" freq="2"/>
+				<germThree	 prob="0.7" speed="2" freq="2"/>
+				<germFour	 prob="0.7" speed="1" freq="2"/>
+				<rbc 		 prob="0.4" freq="4"/>
+				<powerup	 prob="0.6" freq="4"/>
+			</level>
+			<!-- Level 10 -->
+			<level toKill="6" changeBG="true" bg="BACKGROUND_THREE" bgm="null">
+				<germOne 	 prob="1" speed="10" freq="2"/>
+				<germTwo 	 prob="0" speed="5" freq="15"/>
+				<germThree	 prob="0" speed="4" freq="15"/>
+				<germFour	 prob="0" speed="3" freq="15"/>
+				<rbc 		 prob="0.8" freq="2"/>
+				<powerup	 prob="0" freq="15"/>
+			</level>
+			<!-- Level 11 -->
+			<level toKill="50" changeBG="false" bg="BACKGROUND_THREE" bgm="null">
+				<germOne 	 prob="0.6" speed="6" freq="2"/>
+				<germTwo 	 prob="0.6" speed="3" freq="2"/>
+				<germThree	 prob="0.6" speed="2" freq="2"/>
+				<germFour	 prob="0.6" speed="1" freq="2"/>
+				<rbc 		 prob="0.4" freq="4"/>
+				<powerup	 prob="0.7" freq="3"/>
+			</level>
+			<!-- Level 12 -->
+			<level toKill="55" changeBG="false" bg="BACKGROUND_THREE" bgm="null">
+				<germOne 	 prob="0.7" speed="6" freq="2"/>
+				<germTwo 	 prob="1" speed="3" freq="1"/>
+				<germThree	 prob="1" speed="2" freq="2"/>
+				<germFour	 prob="0.4" speed="1" freq="2"/>
+				<rbc 		 prob="0.4" freq="4"/>
+				<powerup	 prob="0.7" freq="3"/>
+			</level>
+			<!-- Level 13 -->
+			<level toKill="60" changeBG="false" bg="BACKGROUND_THREE" bgm="null">
+				<germOne 	 prob="1" speed="6" freq="1"/>
+				<germTwo 	 prob="1" speed="3" freq="1"/>
+				<germThree	 prob="0.8" speed="2" freq="2"/>
+				<germFour	 prob="0.4" speed="1" freq="2"/>
+				<rbc 		 prob="0.4" freq="4"/>
+				<powerup	 prob="0.8" freq="3"/>
+			</level>
+			<!-- Level 14 -->
+			<level toKill="65" changeBG="false" bg="BACKGROUND_THREE" bgm="null">
+				<germOne 	 prob="0.6" speed="6" freq="2"/>
+				<germTwo 	 prob="0.6" speed="3" freq="2"/>
+				<germThree	 prob="1" speed="2" freq="1"/>
+				<germFour	 prob="0.9" speed="1" freq="1.5"/>
+				<rbc 		 prob="0.4" freq="4"/>
+				<powerup	 prob="0.8" freq="3"/>
+			</level>
+			<!-- Level 15 -->
+			<level toKill="40" changeBG="true" bg="BACKGROUND_FOUR" bgm="null">
+				<germOne 	 prob="0" speed="5" freq="9999"/>
+				<germTwo 	 prob="0" speed="3" freq="9999"/>
+				<germThree	 prob="0" speed="2" freq="9999"/>
+				<germFour	 prob="1" speed="1" freq="1"/>
+				<rbc 		 prob="0.4" freq="4"/>
+				<powerup	 prob="0.4" freq="3"/>
+			</level>
+			<!-- Level 16 -->
+			<level toKill="40" changeBG="false" bg="BACKGROUND_FOUR" bgm="null">
+				<germOne 	 prob="0" speed="5" freq="9999"/>
+				<germTwo 	 prob="0" speed="3" freq="9999"/>
+				<germThree	 prob="1" speed="2" freq="1"/>
+				<germFour	 prob="0" speed="1" freq="9999"/>
+				<rbc 		 prob="0.4" freq="4"/>
+				<powerup	 prob="0.4" freq="3"/>
+			</level>
+			<!-- Level 17 -->
+			<level toKill="45" changeBG="false" bg="BACKGROUND_FOUR" bgm="null">
+				<germOne 	 prob="0.7" speed="5" freq="2"/>
+				<germTwo 	 prob="0.7" speed="3" freq="2"/>
+				<germThree	 prob="0.6" speed="2" freq="1"/>
+				<germFour	 prob="0.3" speed="1" freq="3"/>
+				<rbc 		 prob="0.4" freq="4"/>
+				<powerup	 prob="0.4" freq="3"/>
+			</level>
+			<!-- Level 18 -->
+			<level toKill="60" changeBG="false" bg="BACKGROUND_FOUR" bgm="null">
+				<germOne 	 prob="0.5" speed="6" freq="1"/>
+				<germTwo 	 prob="0.5" speed="3" freq="1"/>
+				<germThree	 prob="0.7" speed="2" freq="2"/>
+				<germFour	 prob="0.6" speed="1" freq="2"/>
+				<rbc 		 prob="0.4" freq="4"/>
+				<powerup	 prob="0.7" freq="3"/>
+			</level>
+			<!-- Level 19 -->
+			<level toKill="80" changeBG="false" bg="BACKGROUND_FOUR" bgm="null">
+				<germOne 	 prob="0.4" speed="6" freq="1"/>
+				<germTwo 	 prob="0.4" speed="3" freq="1"/>
+				<germThree	 prob="0.4" speed="2" freq="1"/>
+				<germFour	 prob="0.4" speed="1" freq="1"/>
+				<rbc 		 prob="0.4" freq="4"/>
+				<powerup	 prob="0.8" freq="3"/>
+			</level>
+			<!-- Level 20 -->
+			<level toKill="100" changeBG="false" bg="BACKGROUND_FOUR" bgm="null">
+				<germOne 	 prob="0.8" speed="6" freq="1"/>
+				<germTwo 	 prob="0.8" speed="3" freq="1"/>
+				<germThree	 prob="0.8" speed="2" freq="1"/>
+				<germFour	 prob="0.8" speed="1" freq="1"/>
+				<rbc 		 prob="0.4" freq="4"/>
+				<powerup	 prob="1" freq="2"/>
+			</level>
+			
+			<![CDATA[
+			Template.
+			<!-- Level  -->
+			<level toKill="" changeBG="" bg="" bgm="">
+				<germOne 	 prob="" speed="" freq=""/>
+				<germTwo 	 prob="" speed="" freq=""/>
+				<germThree	 prob="" speed="" freq=""/>
+				<germFour	 prob="" speed="" freq=""/>
+				<rbc 		 prob="" freq=""/>
+				<powerup	 prob="" freq=""/>
+			</level>
+			]]>
+		</levels>
+		
+		<questions>
+			<!-- Holds the data for the questions shown when a power up is hit.-->
+			<!-- First 10 taken from http://www.educationquizzes.com/gcse/biology/unit-3-blood/ -->
+			<!-- Question 1 -->
+			<question correctAnswer="2" time="7">
+				<text>
+					Blood plasma is...
+				</text>
+				<answers one="solid" two="liquid" three="gas"/>
+			</question>
+			<!-- Question 2 -->
+			<question correctAnswer="2" time="5">
+				<text>
+					Plasma carries carbon dioxide away from the...
+				</text>
+				<answers one="lungs" two="organs" three="platelets"/>
+			</question>
+			<!-- Question 3 -->
+			<question correctAnswer="3" time="7">
+				<text>
+					Arteries carry blood...
+				</text>
+				<answers one="towards the heart" two="from atria to ventricles" three="away from the heart"/>
+			</question>
+			<!-- Question 4 -->
+			<question correctAnswer="3" time="7">
+				<text>
+					Valves prevent the backflow of blood, and are found in...
+				</text>
+				<answers one="arteries" two="capillaries" three="veins"/>
+			</question>
+			<!-- Question 5 -->
+			<question correctAnswer="3" time="7">
+				<text>
+					Which blood vessels are so small that a microscope is needed to see them?
+				</text>
+				<answers one="arteries" two="veins" three="lymphatic vessels"/>
+			</question>
+			<!-- Question 6 -->
+			<question correctAnswer="3" time="6">
+				<text>
+					Their walls are very thin to allow diffusion of gases.
+				</text>
+				<answers one="arteries" two="veins" three="capillaries"/>
+			</question>
+			<!-- Question 7 -->
+			<question correctAnswer="3" time="6">
+				<text>
+					Arteries carry blood which is...
+				</text>
+				<answers one="deoxygenated" two="red" three="oxygenated"/>
+			</question>
+			<!-- Question 8 -->
+			<question correctAnswer="1" time="6">
+				<text>
+					Another name for a red blood cell is...
+				</text>
+				<answers one="erythrocyte" two="leucocyte" three="platelet"/>
+			</question>
+			<!-- Question 9 -->
+			<question correctAnswer="3" time="6">
+				<text>
+					Platelets are involved in blood...
+				</text>
+				<answers one="flow" two="renewal" three="clotting"/>
+			</question>
+			<!-- Question 10 -->
+			<question correctAnswer="1" time="6">
+				<text>
+					Red cells have a special shape to allow maximum...
+				</text>
+				<answers one="surface area for diffusion" two="volume for water" three="density for floating"/>
+			</question>
+			<!-- Question 11 -->
+			<question correctAnswer="2" time="8">
+				<text>
+					Which heart chamber has the thickest muscle?
+				</text>
+				<answers one="left atrium" two="left ventricle" three="right atrium"/>
+			</question>
+			<!-- Question 12 -->
+			<question correctAnswer="3" time="9">
+				<text>
+					The correct order for the movement of blood through the heart is...
+				</text>
+				<answers one="Left Atrium, Left Ventricle Right Ventricle, Right Atrium"
+				two="Right Atrium, Left Ventricle, Left Atrium, Right Ventricle"
+				three="Left Ventricle, Right Atrium, Right Ventricle, Left Atrium"/>
+			</question>
+			<!-- Question 13 -->
+			<question correctAnswer="1" time="8">
+				<text>
+					Which of the following substances leaves blood as it passes through capillaries in organs like the liver or pancreas?
+				</text>
+				<answers one="oxygen" two="carbon dioxide" three="starch"/>
+			</question>
+			<!-- Question 14 -->
+			<question correctAnswer="3" time="7">
+				<text>
+					Anaerobic respiration in humans produces....
+				</text>
+				<answers one="ethanol" two="lactic acid, carbon dioxide" three="lactic acid"/>
+			</question>
+			<!-- Question 15 -->
+			<question correctAnswer="1" time="8">
+				<text>
+					In distance running, the best description of the type of respiration occuring is...
+				</text>
+				<answers one="mostly aerobic" two="mostly anaerobic" three="equally aerobic and anaerobic"/>
+			</question>
+				<!-- Question 16 -->
+			<question correctAnswer="3" time="20">
+				<text>
+					If the volume of the left ventricle is 50cm3 and the resting heart rate is 70 beats per minute what volume of blood will leave the left ventricle of a resting man in 10 minutes?
+				</text>
+				<answers one="350cm3" two="3500cm3" three="35000cm3"/>
+			</question>
+			<!-- Question 17 -->
+			<question correctAnswer="1" time="10">
+				<text>
+					Which of the following is the correct order of blood vessels arranged from lowest pressure to highest pressure?
+				</text>
+				<answers one="vein, venule, capillary, artery" 
+				two="venule, vein, artery, capillary"
+				three="vein, arteriole, venule, capillary" 
+				/>
+			</question>
+			<!-- Question 18  -->
+			<question correctAnswer="3" time="9">
+				<text>
+					Which of the following is an effect of regular exercise?
+				</text>
+				<answers one="Recovery takes longer"
+				two="Resting heart rate gets faster" 
+				three="Resting heart muscles contract harder"/>
+			</question>
+			<!-- Question 19 -->
+			<question correctAnswer="2" time="9">
+				<text>
+					More blood is delivered to leg muscles during exercise because...
+				</text>
+				<answers one="more water is needed for sweating" 
+				two="more oxygen is needed by muscle cells" 
+				three="warmer muscles work faster" 
+				/>
+			</question>
+			<!-- Question 20 -->
+			<question correctAnswer="3" time="8">
+				<text>
+					The organ mainly responsible for removing lactic acid following vigorous exercise is...
+				</text>
+				<answers one="Lungs" two="Heart" three="Liver"/>
+			</question>
+			<!-- Question 21 -->
+			<question correctAnswer="3" time="9">
+				<text>
+					Humans have a double circulatory system. The advantage of this is...
+				</text>
+				<answers one="it oxygenates blood"
+				two="it removes carbon dioxide easily" 
+				three="it keeps blood pressure high in body capillaries"/>
+			</question>
+			
+			
+			
+		
+		</questions>
+		<![CDATA[
+		Template.
+		<!-- Question  -->
+		<question correctAnswer="" time="">
+			<text>
+				
+			</text>
+			<answers one="" two="" three="" four=""/>
+		</question>
+		]]>
+		
+		
+</data>

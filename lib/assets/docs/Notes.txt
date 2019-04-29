@@ -1,0 +1,41 @@
+####Super Blood Busters Notes####
+
+#Introduction#
+
+-Was intended as an improvement on a game made for a school project in ActionScript 2.
+That game was supposed to teach about the human body.
+
+
+#Issues#
+
+-Image and sound files are too large for such a basic game.
+-Took much longer than anticipated. (Almost 2 months)
+-Frame rate dips due to large files and lack of pre-baked rotations.
+-Numerous, unusual null errors due to half-assed programming.
+
+#Improvements#
+
+-Frame rate still much better than the first game's. This was due to only having one onEnterFrame.
+-Looks much better, as not restricted to Flash's IDE.
+-Sounds better due to sfxr.
+-OOP approach makes revisiting code easier and faster.
+-Lots of comments help this as well.
+-Use of XML makes adding levels and customizing everything very easy.
+-Embedding means this can be easily sent or submitted online.
+-Able to include a high scores screen and pause menu.
+
+#Things to do#
+
+-Game saves
+-Rest of levels
+-Better soundtrack
+-High scores don't work properly (the first name entry disappears for some reason)
+-Music credits
+
+#Things learnt# 
+
+-Anatomy blurs sprite sheets very badly, so their size must be increased, making the file size huge.
+-Graphics gale produces excellent, vibrant sprites, but animations would take too long.
+-Anatomy animations also reduce the 'pixelated' aesthetic.
+-Static vars/functions are extremely useful for games.
+-Desaturate colours so that visuals don't look as flat.

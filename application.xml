@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<application xmlns="http://ns.adobe.com/air/application/3.9">
+	
+	<id>SuperBloodBusters</id> 
+	<versionNumber>1.0</versionNumber> 
+	<filename>SuperBloodBusters</filename> 
+	
+	<name>SuperBloodBusters</name> 
+	<description>Blast the germs before they leave the screen!</description> 
+	<copyright>phtb&cpy;</copyright> 
+	
+	<initialWindow> 
+		<title>SuperBloodBusters</title> 
+		<content>SuperBloodBusters.swf</content> 
+		<systemChrome>standard</systemChrome> 
+		<transparent>false</transparent> 
+		<visible>true</visible> 
+		<!-- ADDED -->
+		<renderMode>direct</renderMode>
+		<minimizable>true</minimizable> 
+		<maximizable>true</maximizable> 
+		<resizable><!--true-->false</resizable> 
+	</initialWindow> 
+	
+	<!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+</application>

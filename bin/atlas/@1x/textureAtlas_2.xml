@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:600de73bc8c4989987fbedb83919872b:f4ffa863793bfff755d9ba8abeea580b:aa78f6162e84829cf41e0f69237eb7e8$ -->
+<TextureAtlas imagePath="textureAtlas_2.png">
+    <SubTexture name="ammo_plaque" x="845" y="182" width="102" height="48"/>
+    <SubTexture name="audioSettingsBg" x="2" y="2" width="480" height="320"/>
+    <SubTexture name="backBtn" x="943" y="277" width="78" height="18" frameX="-2" frameY="-3" frameWidth="84" frameHeight="24"/>
+    <SubTexture name="buildings_and_ground" x="484" y="882" width="480" height="68" frameX="0" frameY="-3" frameWidth="480" frameHeight="74"/>
+    <SubTexture name="buildings_near" x="2" y="928" width="480" height="71" frameX="0" frameY="-4" frameWidth="480" frameHeight="77"/>
+    <SubTexture name="clouds" x="484" y="983" width="416" height="14" frameX="-24" frameY="-4" frameWidth="480" frameHeight="22"/>
+    <SubTexture name="clouds_furthest" x="484" y="952" width="472" height="19" frameX="-4" frameY="-5" frameWidth="480" frameHeight="39"/>
+    <SubTexture name="far_mtn" x="2" y="324" width="480" height="142" frameX="0" frameY="0" frameWidth="480" frameHeight="144"/>
+    <SubTexture name="germOne_002" x="845" y="2" width="152" height="178" frameX="-9" frameY="-11" frameWidth="166" frameHeight="200"/>
+    <SubTexture name="germTwo_023" x="900" y="297" width="105" height="154" frameX="0" frameY="-4" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="germTwo_024" x="900" y="453" width="105" height="154" frameX="0" frameY="-5" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="germTwo_025" x="900" y="609" width="105" height="154" frameX="0" frameY="-5" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="germTwo_026" x="900" y="453" width="105" height="154" frameX="0" frameY="-5" frameWidth="107" frameHeight="160"/>
+    <SubTexture name="hypermode-button0019" x="949" y="182" width="60" height="46" frameX="-5" frameY="-3" frameWidth="70" frameHeight="50"/>
+    <SubTexture name="hypermode_0005" x="900" y="765" width="96" height="10" frameX="-2" frameY="-2" frameWidth="104" frameHeight="14"/>
+    <SubTexture name="hypermode_0006" x="900" y="777" width="96" height="10" frameX="-2" frameY="-2" frameWidth="104" frameHeight="14"/>
+    <SubTexture name="hypermode_0007" x="900" y="789" width="96" height="10" frameX="-2" frameY="-2" frameWidth="104" frameHeight="14"/>
+    <SubTexture name="level" x="845" y="277" width="96" height="18" frameX="-4" frameY="-3" frameWidth="104" frameHeight="24"/>
+    <SubTexture name="mid_detail" x="480" y="1001" width="476" height="14" frameX="0" frameY="-4" frameWidth="480" frameHeight="22"/>
+    <SubTexture name="mid_grass" x="484" y="809" width="480" height="71"/>
+    <SubTexture name="mid_ground" x="2" y="673" width="480" height="90" frameX="0" frameY="0" frameWidth="480" frameHeight="92"/>
+    <SubTexture name="near_detail" x="2" y="1001" width="476" height="19" frameX="0" frameY="-1" frameWidth="480" frameHeight="23"/>
+    <SubTexture name="near_grass" x="2" y="849" width="480" height="77" frameX="0" frameY="-2" frameWidth="480" frameHeight="79"/>
+    <SubTexture name="near_ice_mtn" x="2" y="468" width="480" height="108" frameX="0" frameY="0" frameWidth="480" frameHeight="110"/>
+    <SubTexture name="near_mtn" x="2" y="578" width="480" height="93" frameX="0" frameY="-4" frameWidth="480" frameHeight="99"/>
+    <SubTexture name="path" x="2" y="765" width="480" height="82" frameX="0" frameY="-2" frameWidth="480" frameHeight="84"/>
+    <SubTexture name="questionPlaque" x="484" y="303" width="414" height="251" frameX="0" frameY="0" frameWidth="420" frameHeight="257"/>
+    <SubTexture name="ready" x="845" y="232" width="148" height="23" frameX="-1" frameY="-3" frameWidth="154" frameHeight="29"/>
+    <SubTexture name="settingsPlaque" x="484" y="556" width="414" height="251" frameX="0" frameY="0" frameWidth="420" frameHeight="257"/>
+    <SubTexture name="startBtn" x="845" y="257" width="98" height="18" frameX="-2" frameY="-3" frameWidth="104" frameHeight="24"/>
+    <SubTexture name="sun" x="958" y="952" width="60" height="61" frameX="-3" frameY="-1" frameWidth="66" frameHeight="65"/>
+    <SubTexture name="trophy" x="484" y="2" width="359" height="299"/>
+    <SubTexture name="waves_mid" x="484" y="973" width="460" height="8" frameX="-4" frameY="-13" frameWidth="480" frameHeight="32"/>
+</TextureAtlas>

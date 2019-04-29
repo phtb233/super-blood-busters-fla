@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5394741801928d981662bf97f6f0816e:9e7ed044f17d0ba204840aceacc8a571:97edad5fb3d51d1f75cd2632d4b445a5$ -->
+<TextureAtlas imagePath="loading_and_gameover.png">
+    <SubTexture name="A" x="306" y="2" width="36" height="36" frameX="-1" frameY="-4" frameWidth="44" frameHeight="44"/>
+    <SubTexture name="D" x="268" y="2" width="36" height="36" frameX="-1" frameY="-4" frameWidth="44" frameHeight="44"/>
+    <SubTexture name="E" x="230" y="2" width="36" height="36" frameX="-1" frameY="-4" frameWidth="44" frameHeight="44"/>
+    <SubTexture name="G" x="192" y="2" width="36" height="36" frameX="-1" frameY="-4" frameWidth="44" frameHeight="44"/>
+    <SubTexture name="I" x="376" y="2" width="30" height="36" frameX="-7" frameY="-4" frameWidth="44" frameHeight="44"/>
+    <SubTexture name="L" x="344" y="2" width="30" height="36" frameX="-7" frameY="-4" frameWidth="44" frameHeight="44"/>
+    <SubTexture name="M" x="154" y="2" width="36" height="36" frameX="-1" frameY="-4" frameWidth="44" frameHeight="44"/>
+    <SubTexture name="N" x="116" y="2" width="36" height="36" frameX="-1" frameY="-4" frameWidth="44" frameHeight="44"/>
+    <SubTexture name="O" x="78" y="2" width="36" height="36" frameX="-1" frameY="-4" frameWidth="44" frameHeight="44"/>
+    <SubTexture name="R" x="40" y="2" width="36" height="36" frameX="-1" frameY="-4" frameWidth="44" frameHeight="44"/>
+    <SubTexture name="V" x="2" y="2" width="36" height="36" frameX="-1" frameY="-4" frameWidth="44" frameHeight="44"/>
+</TextureAtlas>
